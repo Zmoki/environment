@@ -4,6 +4,7 @@
   "description": "PROJECT_DESCRIPTION",
   "main": "index.js",
   "scripts": {
+    "lint:js": "eslint .",
     "start": "node ./scripts/start.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },

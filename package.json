@@ -1,0 +1,26 @@
+{
+  "name": "PROJECT_NAME",
+  "version": "0.0.1",
+  "description": "PROJECT_DESCRIPTION",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./scripts/start.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PROJECT_PATH.git"
+  },
+  "author": "Zarema Khalilova",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PROJECT_PATH/issues"
+  },
+  "homepage": "https://github.com/PROJECT_PATH#readme",
+  "devDependencies": {
+    "browser-sync": "^2.18.11",
+    "eslint": "^3.19.0",
+    "eslint-config-uploadcare": "^1.1.0",
+    "ngrok": "^2.2.14"
+  }
+}
